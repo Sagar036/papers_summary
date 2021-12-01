@@ -1,5 +1,7 @@
 ## Summary
 
+[Paper URL](https://dl.acm.org/doi/pdf/10.5555/3295222.3295309)
+
 - Two types of uncertainty:
 
   - Aleatoric uncertainty: 
